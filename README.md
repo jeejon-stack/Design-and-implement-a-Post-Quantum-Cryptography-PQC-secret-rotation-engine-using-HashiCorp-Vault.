@@ -217,6 +217,7 @@ vault read pki/roles/microservice
 
 python
 ### sidecar.py
+
 import hvac
 import os
 import time
