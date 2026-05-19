@@ -312,6 +312,11 @@ The *2-hour TTL with 60-minute rotation* means there is always a 1-hour overlap 
 - [ ] Prometheus metrics for rotation events
 - [ ] Helm chart for production deployment
 
+
+## Report Doc
+
+- https://docs.google.com/document/d/10KzGKZIW6-VCJ_7OVREHBFV6wMK7IrkTAKDi3Q3o3so/edit?tab=t.0
+
 ## Author
 
 *Johnson Oni*
@@ -322,3 +327,7 @@ The *2-hour TTL with 60-minute rotation* means there is always a 1-hour overlap 
 ## License
 
 MIT License — see <LICENSE> for details.
+
+
+
+
